@@ -10,3 +10,4 @@ while True:
     N = b * 10 + M % 10
     if X == N: break
 print(index)
+# good day sungmander..
